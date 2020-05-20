@@ -1,1 +1,2 @@
-spring: 0
+config:
+  ingo: springcloudtest-github
